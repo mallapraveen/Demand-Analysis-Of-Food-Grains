@@ -1,0 +1,11 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+"Uttar Pradesh",Bijnor,Kiratpur,Gur(Jaggery),Red,FAQ,11/12/2022,2580,2670,2640
+"Uttar Pradesh",Bijnor,Kiratpur,Potato,Desi,FAQ,11/12/2022,1300,1400,1350
+Bihar,Kishanganj,Bahadurganj,Cabbage,Cabbage,FAQ,11/12/2022,1300,1500,1400
+Bihar,Kishanganj,Bahadurganj,Coriander(Leaves),Coriander,FAQ,11/12/2022,3600,4000,3800
+Bihar,Nawada,Nawada,"Mustard Oil","Mustard Oil",FAQ,11/12/2022,2600,2750,2700
+Bihar,Kishanganj,Bahadurganj,"Green Chilli","Green Chilly",FAQ,11/12/2022,3100,3400,3200
+Bihar,Nawada,Nawada,Brinjal,Other,FAQ,11/12/2022,650,800,750
+Telangana,Warangal,Jangaon,Paddy(Dhan)(Common),"I.R. 64",FAQ,11/12/2022,204,204,204
+"Uttar Pradesh",Bijnor,Kiratpur,"Banana - Green","Banana - Green",FAQ,11/12/2022,1250,1350,1300
+Bihar,Kishanganj,Bahadurganj,"Bottle gourd","Bottle Gourd",FAQ,11/12/2022,1800,2000,1900
